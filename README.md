@@ -83,14 +83,11 @@ npm i firebase@9.2
 - [ ] Wanted to extract parameters from etherscan inorder have universal appeal.
 - [ ] Add a flag button to the UI to allow users to report addresses.
 - [ ] Try to get ip address of the system from which transaction is done if an address is really detected as fraud and black list it .
-...
+
 # Contact 
-  > Akhil  - @akhilpasula09092000@gmail.com
+  > AkhilPasula  - @akhilpasula09092000@gmail.com
 
  All suggestions are welcomed , intrested can mail to above mail id
 
 # Demo Video
-
-
-# Walkthrough
-
+https://user-images.githubusercontent.com/119802849/235765296-cc7a5e32-078a-4c07-9919-950b6a68d093.mp4
